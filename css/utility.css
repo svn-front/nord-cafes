@@ -1,0 +1,33 @@
+/*=== DISPLAY ===*/
+.flex {
+    display: flex;
+}
+
+.flex-between-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-around-center {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.grid {
+    display: grid;
+}
+
+.in-block {
+    display: inline-block;
+}
+
+/*=== POSITION ===*/
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}

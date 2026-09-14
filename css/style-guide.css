@@ -1,0 +1,30 @@
+:root {
+
+    /*=== COLORS ===*/
+    --black-brand: #131313;
+    --black-brand-hover: #0c0c0c;
+
+    --white-brand: #efecdf;
+    --white-brand-hover: #d8d8d6;
+
+    --bege-brand: #e7bf80;
+    --bege-brand-hover: #caa364;
+
+    --cobber-brand: #c7732a;
+
+    --vine-brand: #3a0d0d;
+    --vine-brand-hover: #250707;
+    
+    --brown-brand: #3d1f0d;
+
+    /*=== GRADIENT ===*/
+    --gradient-black-op: linear-gradient(90deg,rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 70%, rgba(0, 0, 0, 0.0) 100%);
+    
+    /*=== BORDER RADIUS ===*/
+    --radius-s: border-raius: 4px;
+
+    /*=== FONT FAMILIES ===*/
+    --family-primary: "Montserrat", serif;
+    --family-secondary: "Noto Serif", serif;
+    --family-especial: "Ms Madi", cursive;
+}

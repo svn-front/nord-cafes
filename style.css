@@ -1,0 +1,10 @@
+/*=== GLOBAL IMPORTS ===*/
+@import url("./css/global-reset.css");
+@import url("./css/utility.css");
+@import url("./css/style-guide.css");
+
+/*=== GLOBALS COMPORTAMENT ===*/
+.container {
+    width: min(100% - 2rem, 1200px);
+    margin-inline: auto;
+}
